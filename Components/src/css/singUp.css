@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .background-radial-gradient {
-  background-color: #22116bc4;
+  background-color: #35218fc4;
   background-image: radial-gradient(
       650px circle at 0% 0%,
 
@@ -13,9 +13,9 @@
     radial-gradient(
       1250px circle at 100% 100%,
       rgb(66, 80, 124),
-      rgb(66, 80, 124),
-      rgb(66, 80, 124),
-      rgb(66, 80, 124),
+      rgb(54, 98, 243),
+      rgb(54, 98, 243),
+      rgb(54, 98, 243),
       transparent 100%
     );
 }
