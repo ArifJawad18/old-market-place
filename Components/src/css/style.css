@@ -154,20 +154,3 @@ p {
   height: 250px;
   object-fit: cover;
 }
-
-@media (max-width: 992px) {
-  .category ul {
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .banner {
-    grid-template-columns: repeat(1, 1fr);
-  }
-}
-@media (max-width: 668px) {
-  .category ul {
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .banner {
-    grid-template-columns: repeat(1, 1fr);
-  }
-}
